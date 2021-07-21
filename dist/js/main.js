@@ -1,1 +1,0 @@
-console.log("Gulp started...."),console.log("Gulp is running...."),console.log("Gulp completed...."),console.log("This is from file 2"),console.log("This is from file 2");
