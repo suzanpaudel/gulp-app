@@ -4,7 +4,6 @@ const imagemin = require('gulp-imagemin');
 const uglify = require('gulp-uglify');
 const sass = require('gulp-sass')(require('sass'));
 const concat = require('gulp-concat');
-const { series } = require('gulp');
 
 // dummy gulp task
 gulp.task('message', async function () {
